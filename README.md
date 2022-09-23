@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khadijalahy1" alt="" /></a> </p>
 
-- 🔭 I’m currently interning at [Tarjimly](https://www.tarjim.ly/) California, Remote
+- 🔭 I’m currently interning at [Tarjimly](https://www.tarjim.ly/) [California, Remote]
 
 - 🌱 I’m currently improving my problem solving skills by doing competitive programming.
 
