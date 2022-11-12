@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently improving my problem solving skills by doing competitive programming.
 
-- 👨‍💻 All of my projects are available at [Portfolio](khadija-alahyane.com)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.khadija-alahyane.com)
 
 - 📝 I'm an active member and a mentor at  [AIAC Space Club](https://www.linkedin.com/company/66698407)
 
