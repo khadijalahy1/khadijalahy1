@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=khadijaalahyane.com&style=for-the-badge&url=https%3A%2F%2Fkhadijaalahyane.com)](https://www.khadijaalahyane.com/)
 
-## On a Mission to Explore, Learn, Build, and Teach 🚀
+## On A Mission To Explore, Learn, Build, And Teach 🚀
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadijalahy1&label=Profile%20views&color=0e75b6&style=flat" alt="khadijalahy1" /> </p>
