@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I once used a stack to remember directions and get back home**
 
-- You'll always find me around keyboards if not for bugs then for some keys free bugs 
+- 🎹 You'll always find me around keyboards if not for bugs then for some keys free bugs 
 
 
 <h3 align="left">Languages and Tools:</h3>
