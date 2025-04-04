@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=khadijaalahyane.com&style=for-the-badge&url=https%3A%2F%2Fkhadijaalahyane.com)](https://www.khadijaalahyane.com/)
 
-## I'm a Software Engineer, Space Exploration Enthusiast, Developer, and Math Lover!!
+## On a Mission to Explore, Learn, Build, and Teach 🚀
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadijalahy1&label=Profile%20views&color=0e75b6&style=flat" alt="khadijalahy1" /> </p>
